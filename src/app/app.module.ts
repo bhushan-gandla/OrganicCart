@@ -20,6 +20,9 @@ import { CheckOutComponent } from './components/check-out/check-out.component';
 import { OrderConfirmationComponent } from './components/order-confirmation/order-confirmation.component';
 import { AccountSettingsComponent } from './components/account-settings/account-settings.component';
 import { PaymentMethodsComponent } from './components/payment-methods/payment-methods.component';
+import { NavBarComponent } from './components/nav-bar/nav-bar.component';
+import { FooterComponent } from './components/footer/footer/footer.component';
+import { TestingComponent } from './components/testing/testing.component';
 
 @NgModule({
   declarations: [
@@ -40,7 +43,10 @@ import { PaymentMethodsComponent } from './components/payment-methods/payment-me
     CheckOutComponent,
     OrderConfirmationComponent,
     AccountSettingsComponent,
-    PaymentMethodsComponent
+    PaymentMethodsComponent,
+    NavBarComponent,
+    FooterComponent,
+    TestingComponent
   ],
   imports: [
     BrowserModule,
