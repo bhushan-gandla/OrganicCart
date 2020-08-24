@@ -3,8 +3,9 @@
     "",
     "\\app",
     "\\app\\components",
-    "\\app\\components\\modals"
+    "\\app\\components\\home",
+    "\\app\\components\\individual-department"
   ],
-  "SelectedNode": "\\app\\app.component.ts",
+  "SelectedNode": "\\app\\components\\home\\home.component.scss",
   "PreviewInSolutionExplorer": false
 }
