@@ -3,8 +3,8 @@
     "",
     "\\app",
     "\\app\\components",
-    "\\app\\components\\home",
-    "\\app\\components\\individual-department"
+    "\\app\\components\\category",
+    "\\app\\components\\order-confirmation"
   ],
   "SelectedNode": "\\app",
   "PreviewInSolutionExplorer": false
