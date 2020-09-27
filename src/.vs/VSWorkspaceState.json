@@ -6,6 +6,6 @@
     "\\app\\components\\category",
     "\\app\\components\\order-confirmation"
   ],
-  "SelectedNode": "\\app",
+  "SelectedNode": "\\app\\components\\category\\category.component.html",
   "PreviewInSolutionExplorer": false
 }
