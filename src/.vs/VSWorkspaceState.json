@@ -3,9 +3,8 @@
     "",
     "\\app",
     "\\app\\components",
-    "\\app\\components\\category",
-    "\\app\\components\\order-confirmation"
+    "\\app\\components\\home"
   ],
-  "SelectedNode": "\\app\\components\\category\\category.component.html",
+  "SelectedNode": "\\app",
   "PreviewInSolutionExplorer": false
 }
